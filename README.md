@@ -41,7 +41,7 @@ Using ESM syntax (default import):
 
 <!-- prettier-ignore-start -->
 ```typescript
-import randomBytesSeed from '@csquare/c2id';
+import c2id from '@csquare/c2id';
 
 const output = c2id();
 ```
@@ -51,7 +51,7 @@ or
 
 <!-- prettier-ignore-start -->
 ```typescript
-import { randomBytesSeed } from '@csquare/c2id';
+import { c2id } from '@csquare/c2id';
 
 const output = c2id();
 ```
