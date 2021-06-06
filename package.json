@@ -1,6 +1,6 @@
 {
   "name": "@csquare/c2id",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate base62-encoded unique identifiers",
   "keywords": [
     "unique",
